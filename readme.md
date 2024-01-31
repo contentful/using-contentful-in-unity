@@ -10,7 +10,7 @@ This repo contains code and a Unity package that create an in-game shop that wil
 
 ## Getting Started
 
-You can either follow the [Unity game development with Contentful](https://www.contentful.com/blog/unity-game-development-contentful/) or the `Installation And Setup` section of this readme.
+You can either follow [Unity game development with Contentful](https://www.contentful.com/blog/unity-game-development-contentful/) or the `Installation And Setup` section of this readme.
 
 ### Prerequisites
 
