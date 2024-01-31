@@ -33,8 +33,8 @@ You will need the following in order to utilize this repo:
 2. Double click DemoScene.unitypackage.
 3. Install everything that is prompted.
 4. Open the scene.
-5. Enter your credentials.
-6. Run your game!.
+5. Enter your Contentful credentials.
+6. Run your game!
 
 ## Author
 
