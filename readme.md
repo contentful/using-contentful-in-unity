@@ -2,7 +2,7 @@
 <img src="https://github.com/contentful/using-contentful-in-unity/assets/38636581/0dbb1330-9fbb-4725-aa31-a82fc4f1a933" alt="Image of a Contentful Entry next to a Unity Scriptable Object" width="480"/>
 
 
-This is a complementary repo to be used as reference for the article: [To be released soon](#).
+This is a complementary repo to be used as reference for the article: [Unity game development with Contentful](https://www.contentful.com/blog/unity-game-development-contentful/).
 
 In the article we focus on getting quickly set up within Unity and having live content displaying within a scene during gameplay. 
 
@@ -10,7 +10,7 @@ This repo contains code and a Unity package that create an in-game shop that wil
 
 ## Getting Started
 
-You can either follow the [article, to be released soon](#) or the `Installation And Setup` section of this readme.
+You can either follow the [Unity game development with Contentful](https://www.contentful.com/blog/unity-game-development-contentful/) or the `Installation And Setup` section of this readme.
 
 ### Prerequisites
 
